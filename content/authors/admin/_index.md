@@ -15,7 +15,7 @@ role: PhD Candidate in Quantitative Marketing
 # Organizations/Affiliations
 organizations:
 - name: Tilburg University
-  url: ""
+  url: "https://www.tilburguniversity.edu/staff/n-m-alagoz"
 
 # Short bio (displayed in user profile at end of posts)
 bio: I am a PhD candidate trying to understand how streaming affects music output using econometric methods
@@ -45,7 +45,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: '#contact'  # For a direct email link, use "mailto:test@example.org".
+  link: 'mailto:n.m.alagoz@tilburguniversity.edu'  # For a direct email link, use "mailto:test@example.org".
 - icon: linkedin
   icon_pack: fab
   link: https://www.linkedin.com/in/nazlı-m-a-752388b1
