@@ -31,7 +31,7 @@ education:
 #  - course: PhD in Artificial Intelligence
 #    institution: Stanford University
 #    year: Ongoing
-  - course: Research Master's Degree in Quantitative Marketing
+  - course: MRes in Quantitative Marketing
     institution: Tilburg University
     year: 2019
   - course: B.A. in Economics
