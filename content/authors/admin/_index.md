@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: Nazlı M. Alagöz
 
 # Username (this should match the folder name)
 authors:
@@ -10,11 +10,11 @@ authors:
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: PhD Candidate in Quantitative Marketing
 
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
+- name: Tilburg University
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
@@ -45,7 +45,7 @@ social:
 - icon: envelope
   icon_pack: fas
   link: '#contact'  # For a direct email link, use "mailto:test@example.org".
-- icon: twitter
+- icon: linkedin
   icon_pack: fab
   link: https://twitter.com/GeorgeCushen
 - icon: google-scholar
